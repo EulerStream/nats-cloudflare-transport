@@ -26,6 +26,10 @@
     "workers",
     "transport"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EulerStream/nats-cloudflare-transport.git"
+  },
   "license": "Apache-2.0",
   "packageManager": "pnpm@10.33.0",
   "dependencies": {
