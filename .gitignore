@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+benchmark/
+coverage/
+lib/
+debug/
+build/
+package-lock.json
+deno.lock
+node_modules/

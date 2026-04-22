@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "rootDir": "src/",
+    "outDir": "lib/",
+    "sourceMap": true,
+    "declaration": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "types": ["@cloudflare/workers-types"]
+  },
+  "include": ["src/**/*"],
+  "exclude": ["lib/**/*", "node_modules"]
+}
