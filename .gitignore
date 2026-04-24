@@ -8,3 +8,4 @@ build/
 package-lock.json
 deno.lock
 node_modules/
+.dev
